@@ -4,8 +4,8 @@ Tool ini berfungsi untuk men-check Domain Authority dan Page Authority dari suat
 
 ## Usage
 
-`$ apt-get install sed jq 
-$ git clone https://github.com/whoiscare/seo'
-$ cd seo
-$ chmod +x seochk.sh
-$ ./seochk.sh`
+`$ apt-get install sed jq` <br />
+`$ git clone https://github.com/whoiscare/seo`<br />
+`$ cd seo`<br />
+`$ chmod +x seochk.sh`<br />
+`$ ./seochk.sh`<br />
